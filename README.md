@@ -1,1 +1,1 @@
-# gitStudy
+# gitStudy is a  good idea
