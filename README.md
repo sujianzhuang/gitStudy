@@ -1,1 +1,1 @@
-# gitStudy is a  good idea
+# gitStudy 是非常有意思的哟
